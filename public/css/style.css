@@ -1,0 +1,35 @@
+
+option{
+    color: #e04545;
+    text-indent: 20px;
+}
+
+.color-primary-2{
+    color:#ff6b6b;
+}
+
+
+.card-movie{
+    width: 240px;
+    height: 320px;
+    border: 1px solid #cc6a6a79;
+}
+
+.card-movie__title{
+    height: 10%;
+}
+.card-movie__body{
+    height: 75%;
+}
+.card-movie__footer{
+    height: 15%;
+}
+
+.bg-primary-color{
+    background-color: #9c1414;
+}
+
+.cursor-pointer:hover{
+    cursor: pointer;
+}
+
