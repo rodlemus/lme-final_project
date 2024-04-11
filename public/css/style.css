@@ -33,3 +33,12 @@ option{
     cursor: pointer;
 }
 
+footer{
+    background-color: #3D414B;
+    height: 250px;
+}
+
+.social-media-label{
+    font-size: 12px;
+}
+
