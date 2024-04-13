@@ -3,5 +3,6 @@
 }
 #map {
     height: 400px;
+    border: 6px dashed rgba(69, 69, 69, 0.712);
 }
   
