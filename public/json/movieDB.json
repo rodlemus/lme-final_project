@@ -1,0 +1,124 @@
+{
+  "movies": [
+    {
+      "title": "Godzilla vs. Kong: El Nuevo Imperio",
+      "trailer": "https://www.youtube.com/watch?v=Q6KOQKp86N4",
+      "genero": ["Acción", "Aventura", "Ciencia ficción"],
+      "director": "Adam Wingard",
+      "sinopsis": "Godzilla y Kong se enfrentan en una batalla épica que podría cambiar el destino del mundo. Mientras una conspiración se desarrolla alrededor de ellos, la humanidad lucha por sobrevivir.",
+      "elenco": [
+        "Alexander Skarsgård",
+        "Millie Bobby Brown",
+        "Rebecca Hall",
+        "Brian Tyree Henry"
+      ],
+      "precio_entradas": 10.99,
+      "fechas_horarios_presentacion": [
+        { "fecha": "Miercoles, 1/5/2024", "horarios": ["15:00", "18:00", "21:00"] },
+        { "fecha": "Martes, 2/5/2024", "horarios": ["16:00", "19:00", "22:00"] }
+      ]
+    },
+    {
+      "title": "La Primera Profecía",
+      "trailer": "https://www.youtube.com/watch?v=trailer-la-primera-profecia",
+      "genero": ["Drama", "Misterio", "Suspenso"],
+      "director": "Nombre del Director",
+      "sinopsis": "Sinopsis de La Primera Profecía.",
+      "elenco": [
+        "Nombre del Actor/Actriz",
+        "Nombre del Actor/Actriz",
+        "Nombre del Actor/Actriz"
+      ],
+      "precio_entradas": 9.99,
+      "fechas_horarios_presentacion": [
+        { "fecha": "Miercoles, 1/5/2024", "horarios": ["14:00", "17:00", "20:00"] },
+        { "fecha": "Martes, 2/5/2024", "horarios": ["15:00", "18:00", "21:00"] }
+      ]
+    },
+    {
+      "title": "Kung Fu Panda 4",
+      "trailer": "https://www.youtube.com/watch?v=trailer-kung-fu-panda-4",
+      "genero": ["Animación", "Acción", "Comedia"],
+      "director": "Nombre del Director",
+      "sinopsis": "Sinopsis de Kung Fu Panda 4.",
+      "elenco": [
+        "Nombre del Actor/Actriz",
+        "Nombre del Actor/Actriz",
+        "Nombre del Actor/Actriz"
+      ],
+      "precio_entradas": 8.99,
+      "fechas_horarios_presentacion": [
+        { "fecha": "Miercoles, 1/5/2024", "horarios": ["13:00", "16:00", "19:00"] },
+        { "fecha": "Jueves, 3/5/2024", "horarios": ["14:00", "17:00", "20:00"] }
+      ]
+    },
+    {
+      "title": "D Day: The Movie",
+      "trailer": "https://www.youtube.com/watch?v=trailer-d-day",
+      "genero": ["Acción", "Drama", "Historia"],
+      "director": "Nombre del Director",
+      "sinopsis": "Sinopsis de D Day: The Movie.",
+      "elenco": [
+        "Nombre del Actor/Actriz",
+        "Nombre del Actor/Actriz",
+        "Nombre del Actor/Actriz"
+      ],
+      "precio_entradas": 10.49,
+      "fechas_horarios_presentacion": [
+        { "fecha": "Miercoles, 1/5/2024", "horarios": ["12:00", "15:00", "18:00"] },
+        { "fecha": "Jueves, 3/5/2024", "horarios": ["14:00", "17:00", "20:00"] }
+      ]
+    },
+    {
+      "title": "Ghostbusters: Apocalipsis Fantasma",
+      "trailer": "https://www.youtube.com/watch?v=trailer-ghostbusters",
+      "genero": ["Comedia", "Fantasía", "Ciencia ficción"],
+      "director": "Nombre del Director",
+      "sinopsis": "Sinopsis de Ghostbusters: Apocalipsis Fantasma.",
+      "elenco": [
+        "Nombre del Actor/Actriz",
+        "Nombre del Actor/Actriz",
+        "Nombre del Actor/Actriz"
+      ],
+      "precio_entradas": 11.99,
+      "fechas_horarios_presentacion": [
+        { "fecha": "Miercoles, 1/5/2024", "horarios": ["11:00", "14:00", "17:00"] },
+        { "fecha": "Martes, 2/5/2024", "horarios": ["12:00", "15:00", "18:00"] }
+      ]
+    },
+    {
+      "title": "Pearl Jam: Dark Matter",
+      "trailer": "https://www.youtube.com/watch?v=trailer-pearl-jam",
+      "genero": ["Documental", "Música"],
+      "director": "Nombre del Director",
+      "sinopsis": "Sinopsis de Pearl Jam: Dark Matter.",
+      "elenco": [
+        "Nombre del Actor/Actriz",
+        "Nombre del Actor/Actriz",
+        "Nombre del Actor/Actriz"
+      ],
+      "precio_entradas": 9.49,
+      "fechas_horarios_presentacion": [
+        { "fecha": "Miercoles, 1/5/2024", "horarios": ["10:00", "13:00", "16:00"] },
+        { "fecha": "Martes, 2/5/2024", "horarios": ["11:00", "14:00", "17:00"] }
+      ]
+    },
+    {
+      "title": "Spy Family: Código Blanco",
+      "trailer": "https://www.youtube.com/watch?v=trailer-spy-family",
+      "genero": ["Acción", "Espionaje", "Suspense"],
+      "director": "Nombre del Director",
+      "sinopsis": "Sinopsis de Spy Family: Código Blanco.",
+      "elenco": [
+        "Nombre del Actor/Actriz",
+        "Nombre del Actor/Actriz",
+        "Nombre del Actor/Actriz"
+      ],
+      "precio_entradas": 12.99,
+      "fechas_horarios_presentacion": [
+        { "fecha": "Miercoles, 1/5/2024", "horarios": ["09:00", "12:00", "15:00"] },
+        { "fecha": "Martes, 2/5/2024", "horarios": ["10:00", "13:00", "16:00"] }
+      ]
+    }
+  ]
+}

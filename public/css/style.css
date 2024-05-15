@@ -1,85 +1,96 @@
-
-option{
-    color: #e04545;
-    text-indent: 20px;
+option {
+  color: #e04545;
+  text-indent: 20px;
 }
 
-.color-primary-2{
-    color:#ff6b6b;
+.color-primary-2 {
+  color: #ff6b6b;
 }
 
-
-.card-movie{
-    width: 240px;
-    height: 320px;
-    border: 1px solid #cc6a6a79;
+.card-movie {
+  width: 240px;
+  height: 320px;
+  border: 1px solid #cc6a6a79;
 }
 
-.card-movie__title{
-    height: 10%;
+.card-movie__title {
+  height: 10%;
 }
-.card-movie__body{
-    height: 75%;
+.card-movie__body {
+  height: 75%;
 }
-.card-movie__footer{
-    height: 15%;
-}
-
-.bg-primary-color{
-    background-color: #9c1414;
+.card-movie__footer {
+  height: 15%;
 }
 
-.cursor-pointer:hover{
-    cursor: pointer;
+.bg-primary-color {
+  background-color: #9c1414;
 }
 
-.footer-text-color{
-    color: #dadada;
+.cursor-pointer:hover {
+  cursor: pointer;
 }
 
-footer{
-    background-color: #3D414B;
-    height: auto;
+.footer-text-color {
+  color: #dadada;
 }
 
-footer a{
-    text-decoration-line: none;
+footer {
+  background-color: #3d414b;
+  height: auto;
 }
 
-.meet-us-container{
-    padding-bottom: 50px;
+footer a {
+  text-decoration-line: none;
 }
 
-.cinefilo-list-items li::before{
-    content: "♦";
-    color: #e00715;
-    padding-right: 10px;
+.meet-us-container {
+  padding-bottom: 50px;
 }
 
-.cinefilo-list-items ul{
-    list-style-type:none;
-}
-.social-media-label{
-    font-size: 12px;
-}
-
-.primary-color{
-    color:#e00715;
-}
-.primary-ligth-text{
-    color: #e2e2e2;
-}
-.secondary-ligth-text{
-    color: #c0c0c0;
+.cinefilo-list-items li::before {
+  content: "♦";
+  color: #e00715;
+  padding-right: 10px;
 }
 
-.card-about{
-    border-color: #bdbdbdb6;
-    border-style: solid;
-    border-width: 1px;  
-    padding: 1em;
+.cinefilo-list-items ul {
+  list-style-type: none;
+}
+.social-media-label {
+  font-size: 12px;
 }
 
-.card-about__title_border{
-    border-bottom: 1px solid rgba(211, 211, 211, 0.24);
+.primary-color {
+  color: #e00715;
+}
+.primary-ligth-text {
+  color: #e2e2e2;
+}
+.secondary-ligth-text {
+  color: #c0c0c0;
+}
+
+.card-about {
+  border-color: #bdbdbdb6;
+  border-style: solid;
+  border-width: 1px;
+  padding: 1em;
+}
+
+.card-about__title_border {
+  border-bottom: 1px solid rgba(211, 211, 211, 0.24);
+}
+
+.nav-pills > li > button.active {
+  background-color: #d20613 !important;
+  color: #ffffff !important;
+}
+
+.nav-pills > li > button {
+  color: #ffffff !important;
+}
+
+.nav-pills > li > button:hover {
+  color: #ffffff !important;
 }
