@@ -20,10 +20,35 @@
 
   <body class="bg-dark">
     <nav
-      class="container navbar navbar-expand-md navbar-dark bg-dark d-flex flex-column"
+      class="container navbar navbar-expand-md navbar-dark bg-dark d-flex flex-column pt-0"
     >
+      <div class="row w-100 bg-black p-2">
+        <div class="d-none d-lg-flex gap-3 text-danger fw-semibold">
+          <div class="h-auto d-flex align-items-center">
+            <a
+              href="/cinefilos/meet-us/about/about.html"
+              class="text-decoration-none text-white text-decoration-underline"
+              >Acerca de nosotros</a
+            >
+          </div>
+          <div class="h-auto d-flex align-items-center">
+            <a
+              href="/cinefilos/meet-us/contact/contact.html"
+              class="text-decoration-none text-white text-decoration-underline"
+              >Contáctenos</a
+            >
+          </div>
+          <div class="h-auto d-flex align-items-center">
+            <a
+              href="/cinefilos/meet-us/founders/founders.html"
+              class="text-decoration-none text-white text-decoration-underline"
+              >Autores</a
+            >
+          </div>
+        </div>
+      </div>
       <div class="row w-100">
-        <div>
+        <div class="pt-2">
           <svg
             xmlns="http://www.w3.org/2000/svg"
             width="16"
@@ -62,37 +87,52 @@
           </svg>
         </div>
       </div>
-      <div class="row w-100 d-flex flex-column flex-lg-row pb-3">
-        <div class="d-flex col-12 col-lg-9 justify-content-between">
-          <div>
-            <a
-              class="navbar-brand fw-bolder text-danger fs-2 text-uppercase"
-              href="/cinefilos/"
-              >Cinéfilos</a
+      <div
+        class="row w-100 d-flex flex-column flex-lg-row pb-3 justify-content-end"
+      >
+        <div class="d-flex pb-2">
+          <div class="d-flex flex-column w-100">
+            <div class="d-flex col-12 col-lg-9 justify-content-between">
+              <div>
+                <a
+                  class="navbar-brand fw-bolder text-danger fs-2 text-uppercase"
+                  href="/cinefilos/"
+                  >Cinéfilos</a
+                >
+              </div>
+              <!-- Boton para mobile -->
+              <div class="d-block d-lg-none">
+                <button class="btn" type="button" id="menuMobileBurgerButton">
+                  <span class="navbar-toggler-icon mb-1"></span>
+                </button>
+              </div>
+            </div>
+            <!-- mobile menu -->
+            <div
+              class="d-block d-lg-none menuClose"
+              id="mobileMenuContainer"
+              open-state="0"
             >
-          </div>
-          <!-- Boton para mobile -->
-          <div class="d-block d-lg-none">
-            <button
-              class="btn"
-              type="button"
-              aria-controls="navbarTogglerDemo02"
-              aria-label="Toggle navigation"
-            >
-              <span class="navbar-toggler-icon mb-1"></span>
-            </button>
+              <div class="h-auto d-flex align-items-center">
+                <a
+                  href="/cinefilos/movies/movies-schedule/movies-schedule.html?section=moviesSchedule"
+                  class="text-decoration-none text-white text-uppercase"
+                  >Cartelera</a
+                >
+              </div>
+              <div class="h-auto d-flex align-items-center">
+                <a
+                  href="/app/promotions/promotions.html?section=promotions"
+                  class="text-decoration-none text-white text-uppercase"
+                  >Promociones</a
+                >
+              </div>
+            </div>
           </div>
           <!-- Menu de servicios -->
           <div
             class="d-none d-lg-flex justify-content-between text-danger fw-semibold"
           >
-            <div class="h-auto d-flex align-items-center">
-              <a
-                href="/cinefilos/movies/movies-list/movies-list.html?section=moviesList"
-                class="text-decoration-none text-white text-uppercase"
-                >Películas</a
-              >
-            </div>
             <div class="h-auto d-flex align-items-center">
               <a
                 href="/cinefilos/movies/movies-schedule/movies-schedule.html?section=moviesSchedule"
@@ -105,13 +145,6 @@
                 href="/app/promotions/promotions.html?section=promotions"
                 class="text-decoration-none text-white text-uppercase pe-2"
                 >Promociones</a
-              >
-            </div>
-            <div class="h-auto d-flex align-items-center">
-              <a
-                href="/app/cinema-locations/cinema-locations.html?section=locations"
-                class="text-decoration-none text-white text-uppercase"
-                >Cines</a
               >
             </div>
           </div>
@@ -139,18 +172,12 @@
       <div class="carousel-inner">
         <div class="carousel-item active">
           <img
-            src="https://cinemarkla.modyocdn.com/uploads/8905f704-e76e-4d64-b256-c7f99ad0d803/original/Banner-Ghostbusters.jpg"
+            src="https://cinemarkla.modyocdn.com/uploads/5ff77f71-d591-4e4e-a7ff-f12cac25ae61/original/Banner-Planeta-de-los-Simios.jpg"
             class="d-block w-100"
             alt="kunfu panda banner"
           />
         </div>
-        <div class="carousel-item active">
-          <img
-            src="https://cinemarkla.modyocdn.com/uploads/959b5cc8-6c68-4d6b-8975-5a9668a80351/original/Banner-Kung-Fu-Panda.jpg"
-            class="d-block w-100"
-            alt="kunfu panda banner"
-          />
-        </div>
+
         <div class="carousel-item">
           <img
             src="https://cinemarkla.modyocdn.com/uploads/b4d023a7-665f-40dd-835e-dc4e774948d0/original/Banner-Cineplus.jpg"
@@ -160,7 +187,7 @@
         </div>
         <div class="carousel-item">
           <img
-            src="https://cinemarkla.modyocdn.com/uploads/d5d166aa-731a-47ae-86e2-1b16946a5982/original/Banner-GODZILLAxKONG.jpg"
+            src="https://cinemarkla.modyocdn.com/uploads/9100aae3-4c5a-48ab-b55f-1bddaf4811ed/original/Banner-Garfield.jpg"
             class="d-block w-100"
             alt="King Kong"
           />

@@ -21,3 +21,24 @@
     );
   });
 })();
+
+const menuMobileBurgerButton = document.getElementById(
+  "menuMobileBurgerButton"
+);
+const menuMobileContainer = document.getElementById("mobileMenuContainer");
+
+menuMobileBurgerButton.addEventListener("click", () => {
+  const menuOpenState = parseInt(
+    menuMobileContainer.getAttribute("open-state")
+  );
+
+  if (!menuOpenState) {
+    menuMobileContainer.setAttribute("open-state", "1");
+    menuMobileContainer.classList.remove("menuClose");
+    menuMobileContainer.classList.add("menuOpen");
+  } else {
+    menuMobileContainer.setAttribute("open-state", "0");
+    menuMobileContainer.classList.remove("menuOpen");
+    menuMobileContainer.classList.add("menuClose");
+  }
+});

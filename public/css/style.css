@@ -94,3 +94,14 @@ footer a {
 .nav-pills > li > button:hover {
   color: #ffffff !important;
 }
+
+.menuClose{
+  display: none;
+  height: 0px;
+  visibility: hidden;
+}
+.menuOpen{
+  height: auto;
+  display: block;
+  transition: all 0.3ms ease-in;
+}
