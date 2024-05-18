@@ -1,0 +1,10 @@
+.promotion-card{
+    width: 365px;
+    height: 160px;
+    border: 1px solid gray;
+    background-color: white;
+}
+.promotion-card img{
+    width: 100%;
+    height: 160px;
+}
