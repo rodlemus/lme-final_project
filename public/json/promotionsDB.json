@@ -1,0 +1,91 @@
+{
+  "promotionsCandys":[
+    {
+      "imagePromotion":"https://cinemarkla.modyocdn.com/uploads/86f20ed8-2823-4dfa-ae7f-1f346d73fcc3/original/900x536-Cinecajita-Chocolate.jpg",
+      "promotionTitle":"40% de descuento en Cinecajita",
+      "rangePromotion":["Termina: 31 DIC. 2024"]
+    },
+    {
+      "imagePromotion":"https://cinemarkla.modyocdn.com/uploads/eefcf6cb-a8af-41ae-a657-d7c7d81b616a/original/500.jpg",
+      "promotionTitle":"Promomanía",
+      "rangePromotion":["Comienza: 16 FEB. 2024","Termina: 31 MAY. 2024"]
+    },
+    {
+      "imagePromotion":"https://cinemarkla.modyocdn.com/uploads/abea6d17-27fa-40ab-8455-863fad7110f6/original/SV.jpg",
+      "promotionTitle":"Combo para compartir",
+      "rangePromotion":["Comienza: 01 MAY. 2024","Termina: 30 AGO. 2024"]
+    },
+    {
+      "imagePromotion":"https://cinemarkla.modyocdn.com/uploads/a164b62d-63cd-433c-99c4-aa354db6f91a/original/SV.jpg",
+      "promotionTitle":"Combo Estreno",
+      "rangePromotion":["Comienza: 16 FEB. 2024","Termina: 31 DIC. 2024"]
+    },
+    {
+      "imagePromotion":"https://cinemarkla.modyocdn.com/uploads/de506f53-3b46-4866-87e5-50197870bdd4/original/COMBO-DESCUENTO-900x536-ES.jpg",
+      "promotionTitle":"¡Los Miércoles son de Combo Descuento! ",
+      "rangePromotion":["Comienza: 01 MAY. 2024","Termina: 30 AGO. 2024"]
+    },
+    {
+      "imagePromotion":"https://cinemarkla.modyocdn.com/uploads/9b184a02-a2a6-47e3-b29c-0114ae1bacc8/original/900x536_cinebox.png",
+      "promotionTitle":"CINE-BOX",
+      "rangePromotion":["Comienza: 14 ABR. 2024","Termina: 30 JUN. 2024"]
+    },
+    {
+      "imagePromotion":"https://cinemarkla.modyocdn.com/uploads/4f5595b1-8736-4a5f-b930-84f1d97604cb/original/estudiantes.jpg",
+      "promotionTitle":"¡Combo estudiantes!",
+      "rangePromotion":["Comienza: 25 FEB. 2024","Termina: 31 DIC. 2024"]
+    },
+    {
+      "imagePromotion":"https://cinemarkla.modyocdn.com/uploads/d5d4a86f-fe51-4d81-9b2a-440ba06fa725/original/Combo-Pelicula-900x536.jpg",
+      "promotionTitle":"¡Combo película con 30% más de popcorn!",
+      "rangePromotion":["Comienza: 01 MAY. 2024","Termina: 30 AGO. 2024"]
+    },
+    {
+      "imagePromotion":"https://cinemarkla.modyocdn.com/uploads/a1733684-0713-4732-b15f-a80458237c87/original/SV.jpg",
+      "promotionTitle":"Llegó el Combo Marvels Coca-Cola",
+      "rangePromotion":["Comienza: 16 MAY. 2024","Termina: 17 JUN. 2024"]
+    }
+  ],
+  "promotionsMovies":[
+    {
+      "imagePromotion":"https://cinemarkla.modyocdn.com/uploads/4672c1dc-ce0f-47de-86f8-c87ede611114/original/dia_de_descuento_individual.png",
+      "promotionTitle":"Cinepack Día de descuento Individual",
+      "rangePromotion":["Comienza: 02 DIC. 2020","Termina: 31 DIC. 2024"]
+    },
+    {
+      "imagePromotion":"https://cinemarkla.modyocdn.com/uploads/564fd099-139e-4b04-ae84-240d8270a3dd/original/d4.png",
+      "promotionTitle":"Cinepack Día de descuento",
+      "rangePromotion":["Comienza: 02 DIC. 2020","Termina: 31 DIC. 2024"]
+    },
+    {
+      "imagePromotion":"https://cinemarkla.modyocdn.com/uploads/4ba2a8b8-cfeb-452a-af24-a5a2a63df528/original/tercera_edad.jpg",
+      "promotionTitle":"Descuento Tercera Edad",
+      "rangePromotion":["Comienza: 02 DIC. 2018","Termina: 31 DIC. 2024"]
+    },
+    {
+      "imagePromotion":"https://cinemarkla.modyocdn.com/uploads/a164b62d-63cd-433c-99c4-aa354db6f91a/original/SV.jpg",
+      "promotionTitle":"Combo Estreno",
+      "rangePromotion":["Comienza: 16 FEB. 2024","Termina: 31 DIC. 2024"]
+    },
+    {
+      "imagePromotion":"https://cinemarkla.modyocdn.com/uploads/32ccea90-613c-4fdb-8d93-3f808acfacd4/original/miercoles_descuento.jpg",
+      "promotionTitle":"Miércoles de Descuento",
+      "rangePromotion":["Termina: 31 DIC. 2024"]
+    },
+    {
+      "imagePromotion":"https://cinemarkla.modyocdn.com/uploads/a0e9fd57-1fe8-4ee2-8d50-c8c9627c81d2/original/matinee.jpg",
+      "promotionTitle":"Descuento de MATINEE",
+      "rangePromotion":["Comienza: 14 ABR. 2024","Termina: 30 JUN. 2024"]
+    },
+    {
+      "imagePromotion":"https://cinemarkla.modyocdn.com/uploads/285e57a4-0503-4233-9877-455e42211c44/original/900x536-Cineplus-3D-SV.jpg",
+      "promotionTitle":"¡Con tu Cineplus+: ¡Pasa de 2D a 3D por solo $1 más!!",
+      "rangePromotion":["Comienza: 25 FEB. 2024","Termina: 31 DIC. 2024"]
+    },
+    {
+      "imagePromotion":"https://cinemarkla.modyocdn.com/uploads/6e9344ff-6694-40ee-860c-c97101515acc/original/900_536_edv_cinemark_2da_entrada.jpg",
+      "promotionTitle":"¡Mastercard Boletos!",
+      "rangePromotion":["Comienza: 01 MAY. 2024","Termina: 30 AGO. 2024"]
+    }
+  ]
+}
