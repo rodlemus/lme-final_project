@@ -105,3 +105,7 @@ footer a {
   display: block;
   transition: all 0.3ms ease-in;
 }
+
+.meet-us-section{
+  height: 40px;
+}
