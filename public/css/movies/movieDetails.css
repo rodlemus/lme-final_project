@@ -1,0 +1,74 @@
+.movie-trailer-bg-container {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.movie-trailer-bg-container img{
+    height: 410px;
+    width: 100%;
+    object-fit: cover;
+    filter: opacity(50%);
+}
+
+.trailer-play-icon-container{
+   width: 100%;
+   top: 40%;
+   position: absolute;
+}
+
+
+.movie-data-container{
+    position: relative;
+}
+
+.movie-data{
+    width: 300px;
+    height: auto;
+    top: -8em;
+    position: relative;
+}
+
+
+/* Mobile */
+.mobile-container{
+    position: relative;
+}
+.mobile-title{
+    width: 100%;
+    position: absolute;
+    top: 30px;
+    left: 150px;
+    color: rgb(255, 225, 0);
+}
+
+.days-schedule-container{
+    display: flex !important;
+
+    
+    overflow: auto;
+}
+.days-schedule-container li button{
+    padding: 10px;
+}
+@media screen and (max-width:768px) {
+    .movie-data{
+        top: -5em;
+        width: 160px;
+    }
+    #movie-image{
+        width: 100%;
+    }
+
+    
+}
+@media screen and (min-width:768px) {
+    .movie-data{
+        width: 250px;
+    }
+    .movie-data-container{
+        margin-left: 50px;
+    }
+    #movie-image{
+        width: 100%;
+    }
+}

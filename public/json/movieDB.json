@@ -2,130 +2,83 @@
   "movies": [
     {
       "movieID" : 3,
-      "title": "Godzilla vs. Kong: El Nuevo Imperio",
+      "title": "Planeta de los simios 4, Nuevo Reino",
+      "movieImage":"https://cinemarkmedia.modyocdn.com/ca/300x400/97533.jpg?version=1715997600000",
       "trailer": "https://www.youtube.com/watch?v=Q6KOQKp86N4",
+      "trailerBackgroundImage":"https://img.youtube.com/vi/aWxYWcls3dY/maxresdefault.jpg",
       "genero": ["Acción", "Aventura", "Ciencia ficción"],
-      "director": "Adam Wingard",
-      "sinopsis": "Godzilla y Kong se enfrentan en una batalla épica que podría cambiar el destino del mundo. Mientras una conspiración se desarrolla alrededor de ellos, la humanidad lucha por sobrevivir.",
-      "elenco": [
-        "Alexander Skarsgård",
-        "Millie Bobby Brown",
-        "Rebecca Hall",
-        "Brian Tyree Henry"
+      "director": "Wes Ball",
+      "sinopsis": "los simios son la especie dominante que vive en armonía y los humanos han quedado reducidos a vivir en las sombras. Mientras un nuevo y tiranico lider simio construye su imperio.",
+      "actors": [
+        "Freya Allan",
+        "Lydia Peckman",
+        "William H. Macy",
+        "Kevin Durand"
       ],
-      "precio_entradas": 10.99,
-      "fechas_horarios_presentacion": [
-        { "fecha": "Miercoles, 1/5/2024", "horarios": ["15:00", "18:00", "21:00"] },
-        { "fecha": "Martes, 2/5/2024", "horarios": ["16:00", "19:00", "22:00"] }
-      ]
+      "precio_entradas": 10.99
     },
     {
       "movieID" : 2,
-      "title": "La Primera Profecía",
+      "title": "Garfield",
+      "movieImage":"https://cinemarkmedia.modyocdn.com/ca/300x400/97519.jpg?version=1716004800000",
       "trailer": "https://www.youtube.com/watch?v=trailer-la-primera-profecia",
-      "genero": ["Drama", "Misterio", "Suspenso"],
+      "trailerBackgroundImage":"https://img.youtube.com/vi/QhK_2Jo1u9A/maxresdefault.jpg",
+      "genero": ["Comedia", "Infantil"],
       "director": "Nombre del Director",
       "sinopsis": "Sinopsis de La Primera Profecía.",
-      "elenco": [
+      "actors": [
         "Nombre del Actor/Actriz",
         "Nombre del Actor/Actriz",
         "Nombre del Actor/Actriz"
       ],
-      "precio_entradas": 9.99,
-      "fechas_horarios_presentacion": [
-        { "fecha": "Miercoles, 1/5/2024", "horarios": ["14:00", "17:00", "20:00"] },
-        { "fecha": "Martes, 2/5/2024", "horarios": ["15:00", "18:00", "21:00"] }
-      ]
-    },
-    {
-      "movieID" : 1,
-      "title": "Kung Fu Panda 4",
-      "trailer": "https://www.youtube.com/watch?v=trailer-kung-fu-panda-4",
-      "genero": ["Animación", "Acción", "Comedia"],
-      "director": "Nombre del Director",
-      "sinopsis": "Sinopsis de Kung Fu Panda 4.",
-      "elenco": [
-        "Nombre del Actor/Actriz",
-        "Nombre del Actor/Actriz",
-        "Nombre del Actor/Actriz"
-      ],
-      "precio_entradas": 8.99,
-      "fechas_horarios_presentacion": [
-        { "fecha": "Miercoles, 1/5/2024", "horarios": ["13:00", "16:00", "19:00"] },
-        { "fecha": "Jueves, 3/5/2024", "horarios": ["14:00", "17:00", "20:00"] }
-      ]
+      "precio_entradas": 9.99
     },
     {
       "movieID" : 4,
-      "title": "D Day: The Movie",
+      "title": "Furiosa de la Saga MAD MAX",
+      "movieImage":"https://cinemarkmedia.modyocdn.com/ca/300x400/97743.jpg?version=1716004800000",
       "trailer": "https://www.youtube.com/watch?v=trailer-d-day",
-      "genero": ["Acción", "Drama", "Historia"],
+      "trailerBackgroundImage":"https://cinemarkmedia.modyocdn.com/ca/300x400/97743.jpg",
+      "genero": ["Acción", "Drama", "Postapocaliptica"],
       "director": "Nombre del Director",
-      "sinopsis": "Sinopsis de D Day: The Movie.",
-      "elenco": [
-        "Nombre del Actor/Actriz",
-        "Nombre del Actor/Actriz",
-        "Nombre del Actor/Actriz"
+      "sinopsis": "Mientras el mundo caia, la joven Furiosa es arrebatada del Lugar Verde de Muchas Madres y cae en manos de una gran horda de motociclistas liderada por senor de la guerra Dementus.",
+      "actors": [
+        "Anya Taylor-Joy",
+        "Chris Hemsworth"
       ],
-      "precio_entradas": 10.49,
-      "fechas_horarios_presentacion": [
-        { "fecha": "Miercoles, 1/5/2024", "horarios": ["12:00", "15:00", "18:00"] },
-        { "fecha": "Jueves, 3/5/2024", "horarios": ["14:00", "17:00", "20:00"] }
-      ]
-    },
-    {
-      "movieID" : 5,
-      "title": "Ghostbusters: Apocalipsis Fantasma",
-      "trailer": "https://www.youtube.com/watch?v=trailer-ghostbusters",
-      "genero": ["Comedia", "Fantasía", "Ciencia ficción"],
-      "director": "Nombre del Director",
-      "sinopsis": "Sinopsis de Ghostbusters: Apocalipsis Fantasma.",
-      "elenco": [
-        "Nombre del Actor/Actriz",
-        "Nombre del Actor/Actriz",
-        "Nombre del Actor/Actriz"
-      ],
-      "precio_entradas": 11.99,
-      "fechas_horarios_presentacion": [
-        { "fecha": "Miercoles, 1/5/2024", "horarios": ["11:00", "14:00", "17:00"] },
-        { "fecha": "Martes, 2/5/2024", "horarios": ["12:00", "15:00", "18:00"] }
-      ]
+      "precio_entradas": 10.49
     },
     {
       "movieID" : 6,
-      "title": "Pearl Jam: Dark Matter",
+      "title": "Transformers 40 Aniversario",
+      "movieImage":"https://cinemarkmedia.modyocdn.com/ca/300x400/97926.jpg?version=1716004800000",
       "trailer": "https://www.youtube.com/watch?v=trailer-pearl-jam",
+      "trailerBackgroundImage":"https://img.youtube.com/vi/unocKJUwhjA/maxresdefault.jpg",
       "genero": ["Documental", "Música"],
       "director": "Nombre del Director",
       "sinopsis": "Sinopsis de Pearl Jam: Dark Matter.",
-      "elenco": [
+      "actors": [
         "Nombre del Actor/Actriz",
         "Nombre del Actor/Actriz",
         "Nombre del Actor/Actriz"
       ],
-      "precio_entradas": 9.49,
-      "fechas_horarios_presentacion": [
-        { "fecha": "Miercoles, 1/5/2024", "horarios": ["10:00", "13:00", "16:00"] },
-        { "fecha": "Martes, 2/5/2024", "horarios": ["11:00", "14:00", "17:00"] }
-      ]
+      "precio_entradas": 9.49
     },
     {
       "movieID" : 7,
       "title": "Spy Family: Código Blanco",
-      "trailer": "https://www.youtube.com/watch?v=trailer-spy-family",
+      "movieImage":"https://cinemarkmedia.modyocdn.com/ca/300x400/97719.jpg?version=1712764800000",
+      "trailer": "https://www.youtube.com/watch?v=G_YPSW2uA7k",
+      "trailerBackgroundImage":"https://img.youtube.com/vi/G_YPSW2uA7k/maxresdefault.jpg",
       "genero": ["Acción", "Espionaje", "Suspense"],
       "director": "Nombre del Director",
       "sinopsis": "Sinopsis de Spy Family: Código Blanco.",
-      "elenco": [
+      "actors": [
         "Nombre del Actor/Actriz",
         "Nombre del Actor/Actriz",
         "Nombre del Actor/Actriz"
       ],
-      "precio_entradas": 12.99,
-      "fechas_horarios_presentacion": [
-        { "fecha": "Miercoles, 1/5/2024", "horarios": ["09:00", "12:00", "15:00"] },
-        { "fecha": "Martes, 2/5/2024", "horarios": ["10:00", "13:00", "16:00"] }
-      ]
+      "precio_entradas": 12.99
     }
   ]
 }
